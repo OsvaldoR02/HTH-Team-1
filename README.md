@@ -1,3 +1,3 @@
 # HTH-Team-1
 Walter Menjivar
-You can collaborate with other people in the same code
+I learned you that can collaborate with other people in the same code
